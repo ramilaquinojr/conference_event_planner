@@ -177,5 +177,6 @@ const ConferenceEvent = () => {
 };
 
 // test comment
+// test comment 2
 
 export default ConferenceEvent;
